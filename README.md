@@ -32,7 +32,7 @@ class RohanSharma:
         self.alias       = "kuro-2"  # 黒 (kuro) = black
         self.style       = "Full-Stack AI Grappler"
         self.roles       = [
-            "Software Engineer @ Agents Only",
+            "Software Engineer @ Agents Only Technologies",
             "Architect & FDE @ Nexora Advisory",
         ]
         self.location    = "Dibrugarh, Assam"
@@ -56,7 +56,7 @@ me.challenge()
 
 | Rank | Arena | Mission |
 |:--|:--|:--|
-| 🥊 **Software Engineer** | **Agents Only** | Building annotation platforms where contributors label **text, images, video** and more, powering human-in-the-loop AI data |
+| 🥊 **Software Engineer** | **Agents Only Technologies** | Building annotation platforms where contributors label **text, images, video** and more, powering human-in-the-loop AI data |
 | ⚔️ **Architect & Forward Deployed Engineer** | **Nexora Advisory** | Designing and shipping a **Restaurant Operating System**, fighting on the front line with the client from architecture to deployment |
 
 ---
