@@ -1,36 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=Rohan%20Sharma&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&stroke=ff79c6&strokeWidth=2&desc=%E2%9C%A7%20Software%20Engineer%20%7C%20Architect%20%7C%20FDE%20%7C%20AI%20Builder%20%E2%9C%A7&descSize=18&descAlignY=60&descColor=ffd6f0" width="100%" alt="Rohan Sharma banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:5c0a0a,100:c1121f&height=280&section=header&text=ROHAN%20SHARMA&fontSize=62&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&stroke=ff1e1e&strokeWidth=2&desc=%E2%80%94%20THE%20STRONGEST%20ENGINEER%20IN%20THE%20ARENA%20%E2%80%94&descSize=18&descAlignY=62&descColor=f5c542" width="100%" alt="Rohan Sharma banner"/>
 
 <a href="https://github.com/kuro-2">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%8C%B8+Software+Engineer+%40+Agents+Only;%E2%9B%A9%EF%B8%8F+Architect+%26+FDE+%40+Nexora+Advisory;%E2%9C%A8+Building+Annotation+Platforms+for+Text%2C+Image+%26+Video;%F0%9F%8D%9C+Designing+a+Restaurant+Operating+System;%F0%9F%92%AB+Turning+crazy+ideas+into+real+products" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&pause=1000&color=FF2E2E&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%94%A5+SOFTWARE+ENGINEER+%40+AGENTS+ONLY;%E2%9A%94%EF%B8%8F+ARCHITECT+%26+FDE+%40+NEXORA+ADVISORY;%F0%9F%A5%8A+BUILDING+ANNOTATION+PLATFORMS+FOR+TEXT%2C+IMAGE+%26+VIDEO;%F0%9F%8D%9C+FORGING+A+RESTAURANT+OPERATING+SYSTEM;%F0%9F%92%80+NO+BUG+SURVIVES" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-`(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  Welcome, traveler!  ✧ﾟ･: *ヽ(◕ヮ◕ヽ)`
+`▌▌ I DON'T FIGHT FOR GLORY. I SHIP TO PRODUCTION. ▐▐`
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-sharma-486aa3221)
-[![GitHub](https://img.shields.io/badge/GitHub-2b1055?style=for-the-badge&logo=github&logoColor=ff79c6)](https://github.com/kuro-2)
-![Location](https://img.shields.io/badge/Dibrugarh%2C%20Assam-2b1055?style=for-the-badge&logo=googlemaps&logoColor=ff79c6)
-[![Visitors](https://hits.sh/github.com/kuro-2.svg?style=for-the-badge&label=Visitors&color=ff79c6&labelColor=2b1055)](https://hits.sh/github.com/kuro-2/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff2e2e)](https://github.com/kuro-2)
+![Location](https://img.shields.io/badge/Dibrugarh%2C%20Assam-000000?style=for-the-badge&logo=googlemaps&logoColor=ff2e2e)
+[![Visitors](https://hits.sh/github.com/kuro-2.svg?style=for-the-badge&label=Challengers&color=c1121f&labelColor=000000)](https://hits.sh/github.com/kuro-2/)
 
 </div>
 
 ---
 
-## 🌸 Character Profile
+## 🩸 FIGHTER PROFILE
 
 ```python
 class RohanSharma:
-    """Protagonist. Codes at night. Powered by chai and curiosity."""
+    """Raised on bugs. Trained on production incidents. Built different."""
 
     def __init__(self):
         self.name        = "Rohan Sharma"
         self.alias       = "kuro-2"  # 黒 (kuro) = black
-        self.class_      = "Full-Stack AI Mage"
+        self.style       = "Full-Stack AI Grappler"
         self.roles       = [
             "Software Engineer @ Agents Only",
             "Architect & FDE @ Nexora Advisory",
@@ -43,28 +43,28 @@ class RohanSharma:
         ]
         self.philosophy  = "If it can be automated, automate it. If it can be AI-powered, power it."
 
-    def say_hi(self):
-        print("Yoroshiku! Let's build something crazy together (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧")
+    def challenge(self):
+        print("Think you can out-build me? Step into the arena. 🥊")
 
 me = RohanSharma()
-me.say_hi()
+me.challenge()
 ```
 
 ---
 
-## ⛩️ Current Story Arc
+## 🏟️ CURRENT TOURNAMENT ARC
 
-| Role | Guild | Quest |
+| Rank | Arena | Mission |
 |:--|:--|:--|
-| 🗡️ **Software Engineer** | **Agents Only** | Building annotation platforms where contributors label **text, images, video** and more, powering human-in-the-loop AI data |
-| 🏯 **Architect & Forward Deployed Engineer** | **Nexora Advisory** | Designing and shipping a **Restaurant Operating System**, working directly with the client from architecture to deployment |
+| 🥊 **Software Engineer** | **Agents Only** | Building annotation platforms where contributors label **text, images, video** and more, powering human-in-the-loop AI data |
+| ⚔️ **Architect & Forward Deployed Engineer** | **Nexora Advisory** | Designing and shipping a **Restaurant Operating System**, fighting on the front line with the client from architecture to deployment |
 
 ---
 
-## ⚔️ Skill Tree
+## 💪 TRAINING REGIMEN
 
 <details open>
-<summary><b>🤖 AI / ML / LLM</b></summary>
+<summary><b>🧠 AI / ML / LLM</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -115,9 +115,9 @@ me.say_hi()
 
 ---
 
-## 🎴 Completed Quests
+## 🏆 FIGHT RECORD
 
-| Quest | Mission log | Weapons |
+| Match | Fight log | Moves |
 |:--|:--|:--|
 | 🎉 [**Vendor Recommendation Bot**](https://github.com/kuro-2/Vendor-Recommendation-Event-Cost-Estimation-Bot) | Local AI assistant for event planning and vendor selection, no cloud APIs | `Python` `Streamlit` |
 | 🩺 [**Health Prediction App**](https://github.com/kuro-2/Health-Prediction-app) | Multiple disease prediction system using ML | `Python` `scikit-learn` `Streamlit` |
@@ -130,42 +130,42 @@ me.say_hi()
 
 ---
 
-## 📊 Power Level
+## 📊 STRENGTH STATS
 
 <div align="center">
 
 <a href="https://github.com/kuro-2">
-  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kuro-2&show_icons=true&theme=radical&hide_border=true&bg_color=1a1033&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2" />
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kuro-2&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff2e2e&icon_color=f5c542&text_color=e6e6e6" />
 </a>
 <a href="https://github.com/kuro-2">
-  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuro-2&layout=compact&theme=radical&hide_border=true&bg_color=1a1033&title_color=ff79c6&text_color=f8f8f2" />
+  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuro-2&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff2e2e&text_color=e6e6e6" />
 </a>
 
 <br/>
 
 <a href="https://git.io/streak-stats">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=kuro-2&theme=radical&hide_border=true&background=1A1033&stroke=FF79C6&ring=FF79C6&fire=FF9A3C&currStreakLabel=FF79C6" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=kuro-2&theme=dark&hide_border=true&background=0A0A0A&stroke=C1121F&ring=FF2E2E&fire=F5C542&currStreakLabel=FF2E2E&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9A9A9A" />
 </a>
 
 </div>
 
 ---
 
-## 💌 Send a Message
+## 🥋 CHALLENGE ME
 
 <div align="center">
 
-Got an idea, a bug, or a wild AI project? Summon me.
+Got an idea, a bug, or a wild AI project? Step into the ring.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-sharma-486aa3221)
-[![GitHub](https://img.shields.io/badge/GitHub-2b1055?style=for-the-badge&logo=github&logoColor=ff79c6)](https://github.com/kuro-2)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff2e2e)](https://github.com/kuro-2)
 
 <br/>
 
 <em>"The best code is the one that thinks for itself." – kuro-2</em>
 
-`✧･ﾟ: *✧･ﾟ:*  See you in the next episode!  *:･ﾟ✧*:･ﾟ✧`
+`▌▌ THE STRONGEST ARE NOT BORN. THEY ARE COMPILED. ▐▐`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,55:5c0a0a,100:000000&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
