@@ -1,37 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=240&section=header&text=Rohan%20Sharma&fontSize=64&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Builder%20of%20Intelligent%20Systems&descSize=18&descAlignY=60&descColor=8b949e" width="100%" alt="Rohan Sharma banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=Rohan%20Sharma&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&stroke=ff79c6&strokeWidth=2&desc=%E2%9C%A7%20Software%20Engineer%20%7C%20Architect%20%7C%20FDE%20%7C%20AI%20Builder%20%E2%9C%A7&descSize=18&descAlignY=60&descColor=ffd6f0" width="100%" alt="Rohan Sharma banner"/>
 
 <a href="https://github.com/kuro-2">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=50&lines=Software+Developer+%40+Dumroo+AI;Building+AI-Powered+Applications;LLM+%7C+ML+%7C+Full+Stack+%7C+DevOps;Turning+crazy+ideas+into+real+products" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%8C%B8+Software+Engineer+%40+Agents+Only;%E2%9B%A9%EF%B8%8F+Architect+%26+FDE+%40+Nexora+Advisory;%E2%9C%A8+Building+Annotation+Platforms+for+Text%2C+Image+%26+Video;%F0%9F%8D%9C+Designing+a+Restaurant+Operating+System;%F0%9F%92%AB+Turning+crazy+ideas+into+real+products" alt="Typing SVG"/>
 </a>
 
 <br/>
 
+`(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  Welcome, traveler!  ✧ﾟ･: *ヽ(◕ヮ◕ヽ)`
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-sharma-486aa3221)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuro-2)
-![Profile Views](https://komarev.com/ghpvc/?username=kuro-2&label=Profile%20Views&color=58a6ff&style=for-the-badge)
-![Location](https://img.shields.io/badge/Dibrugarh%2C%20Assam-0d1117?style=for-the-badge&logo=googlemaps&logoColor=58a6ff)
+[![GitHub](https://img.shields.io/badge/GitHub-2b1055?style=for-the-badge&logo=github&logoColor=ff79c6)](https://github.com/kuro-2)
+![Location](https://img.shields.io/badge/Dibrugarh%2C%20Assam-2b1055?style=for-the-badge&logo=googlemaps&logoColor=ff79c6)
+[![Visitors](https://hits.sh/github.com/kuro-2.svg?style=for-the-badge&label=Visitors&color=ff79c6&labelColor=2b1055)](https://hits.sh/github.com/kuro-2/)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🌸 Character Profile
 
 ```python
 class RohanSharma:
+    """Protagonist. Codes at night. Powered by chai and curiosity."""
+
     def __init__(self):
         self.name        = "Rohan Sharma"
-        self.alias       = "kuro-2"
-        self.role        = "Software Developer @ Dumroo AI"
+        self.alias       = "kuro-2"  # 黒 (kuro) = black
+        self.class_      = "Full-Stack AI Mage"
+        self.roles       = [
+            "Software Engineer @ Agents Only",
+            "Architect & FDE @ Nexora Advisory",
+        ]
         self.location    = "Dibrugarh, Assam"
-        self.speciality  = ["AI/ML Engineering", "Full-Stack Development", "Data Pipelines"]
-        self.currently   = "Building intelligent systems that scale"
+        self.skills      = ["AI/ML Engineering", "Full-Stack Development", "Data Pipelines"]
+        self.current_arc = [
+            "Building annotation platforms (text, image, video) for human-in-the-loop AI",
+            "Architecting a Restaurant Operating System",
+        ]
         self.philosophy  = "If it can be automated, automate it. If it can be AI-powered, power it."
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something crazy together")
+        print("Yoroshiku! Let's build something crazy together (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧")
 
 me = RohanSharma()
 me.say_hi()
@@ -39,7 +52,16 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Stack
+## ⛩️ Current Story Arc
+
+| Role | Guild | Quest |
+|:--|:--|:--|
+| 🗡️ **Software Engineer** | **Agents Only** | Building annotation platforms where contributors label **text, images, video** and more, powering human-in-the-loop AI data |
+| 🏯 **Architect & Forward Deployed Engineer** | **Nexora Advisory** | Designing and shipping a **Restaurant Operating System**, working directly with the client from architecture to deployment |
+
+---
+
+## ⚔️ Skill Tree
 
 <details open>
 <summary><b>🤖 AI / ML / LLM</b></summary>
@@ -93,9 +115,9 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
+## 🎴 Completed Quests
 
-| Project | What it does | Tech |
+| Quest | Mission log | Weapons |
 |:--|:--|:--|
 | 🎉 [**Vendor Recommendation Bot**](https://github.com/kuro-2/Vendor-Recommendation-Event-Cost-Estimation-Bot) | Local AI assistant for event planning and vendor selection, no cloud APIs | `Python` `Streamlit` |
 | 🩺 [**Health Prediction App**](https://github.com/kuro-2/Health-Prediction-app) | Multiple disease prediction system using ML | `Python` `scikit-learn` `Streamlit` |
@@ -108,40 +130,42 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Power Level
 
 <div align="center">
 
 <a href="https://github.com/kuro-2">
-  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kuro-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kuro-2&show_icons=true&theme=radical&hide_border=true&bg_color=1a1033&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2" />
 </a>
 <a href="https://github.com/kuro-2">
-  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuro-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuro-2&layout=compact&theme=radical&hide_border=true&bg_color=1a1033&title_color=ff79c6&text_color=f8f8f2" />
 </a>
 
 <br/>
 
 <a href="https://git.io/streak-stats">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=kuro-2&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=kuro-2&theme=radical&hide_border=true&background=1A1033&stroke=FF79C6&ring=FF79C6&fire=FF9A3C&currStreakLabel=FF79C6" />
 </a>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 💌 Send a Message
 
 <div align="center">
 
-Got an idea, a bug, or a wild AI project? Reach out.
+Got an idea, a bug, or a wild AI project? Summon me.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-sharma-486aa3221)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuro-2)
+[![GitHub](https://img.shields.io/badge/GitHub-2b1055?style=for-the-badge&logo=github&logoColor=ff79c6)](https://github.com/kuro-2)
 
 <br/>
 
 <em>"The best code is the one that thinks for itself." – kuro-2</em>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" alt="footer"/>
+`✧･ﾟ: *✧･ﾟ:*  See you in the next episode!  *:･ﾟ✧*:･ﾟ✧`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
